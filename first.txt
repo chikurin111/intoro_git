@@ -1,2 +1,4 @@
 Gitの練習
 基本のワークフローを学ぶ
+・git add
+・git commit
